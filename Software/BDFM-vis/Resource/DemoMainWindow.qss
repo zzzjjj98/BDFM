@@ -1,0 +1,43 @@
+QMainWindow{
+	border-left: 3px solid gray;border-top: 3px solid gray;
+	border-bottom: 3px solid gray;
+	border-right: 3px solid gray;
+	background: rgb(50, 50, 50);
+}
+
+/* Title bar specific styles for Windows */
+QMainWindow::titleBar {
+    background-color: #2e2f30; /* Dark background color */
+    color: white; /* White text color */
+    border: 1px solid #1e1f20; /* Dark border */
+}
+
+QMenuBar {
+    background-color: #2e2f30; /* Dark background color */
+    border: 1px solid #1e1f20; /* Dark border */
+    color: white; /* White text color */
+    padding: 2px; /* Optional padding */
+}
+
+QMenuBar::item:selected {
+    background-color: #4a4b4c; /* Darker background color on hover */
+}
+
+/* Dark style for QMenu */
+QMenu {
+    background-color: #2e2f30; /* Dark background color */
+    border: 1px solid #1e1f20; /* Dark border */
+    color: white; /* White text color */
+    padding: 2px; /* Optional padding */
+}
+
+/* QMenu item (QAction) style */
+QMenu::item {
+    background-color: transparent; /* Transparent background */
+    padding: 4px 20px; /* Padding around the text */
+}
+
+/* Hover state for QMenu item */
+QMenu::item:selected {
+    background-color: #4a4b4c; /* Darker background color on hover */
+}
