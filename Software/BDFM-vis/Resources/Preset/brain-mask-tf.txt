@@ -1,0 +1,144 @@
+DataMapper
+	 DataMapperMode DM_Mode_CLTF
+	 SDF_type KroesScattering
+SLTF_Start
+	 type Intensity
+	 GlobalDensityScale 2.93
+
+	 NormalizedIntensity 0
+	 Opacity 0
+	 DensityScale 1
+	 Diffuse 0.5 0.3 0.2
+	 Specular 0.105882 0.105882 0.105882
+	 Roughness 0
+	 Metallic 0
+	 Emission 0 0 0
+	 Absorption 0 0 0
+	 Scattering 0 0 0
+	 HG_Phase 0
+
+	 NormalizedIntensity 0.16087
+	 Opacity 0
+	 DensityScale 1
+	 Diffuse 0.133333 0.784314 0.698039
+	 Specular 1 1 1
+	 Roughness 1
+	 Metallic 0
+	 Emission 0 0 0
+	 Absorption 0 0 0
+	 Scattering 0 0 0
+	 HG_Phase 0
+
+	 NormalizedIntensity 0.16087
+	 Opacity 0.376471
+	 DensityScale 1
+	 Diffuse 0.227451 0.164706 0.133333
+	 Specular 0.0392157 0.054902 0.352941
+	 Roughness 1
+	 Metallic 0
+	 Emission 0 0 0
+	 Absorption 0 0 0
+	 Scattering 0 0 0
+	 HG_Phase 0
+
+	 NormalizedIntensity 0.2
+	 Opacity 0.288235
+	 DensityScale 1
+	 Diffuse 0.129412 0.129412 0.129412
+	 Specular 0.5 0.5 0.5
+	 Roughness 1
+	 Metallic 0
+	 Emission 0 0 0
+	 Absorption 0 0 0
+	 Scattering 0 0 0
+	 HG_Phase 0
+
+	 NormalizedIntensity 0.221739
+	 Opacity 0
+	 DensityScale 1
+	 Diffuse 0.317647 0.407843 0.364706
+	 Specular 0.5 0.5 0.5
+	 Roughness 1
+	 Metallic 0
+	 Emission 0 0 0
+	 Absorption 0 0 0
+	 Scattering 0 0 0
+	 HG_Phase 0
+
+	 NormalizedIntensity 0.6
+	 Opacity 0
+	 DensityScale 1
+	 Diffuse 0.392157 0 0.0117647
+	 Specular 1 1 1
+	 Roughness 0.17
+	 Metallic 0
+	 Emission 0 0 0
+	 Absorption 0 0 0
+	 Scattering 0 0 0
+	 HG_Phase 0
+
+	 NormalizedIntensity 0.604348
+	 Opacity 0.117647
+	 DensityScale 1
+	 Diffuse 0.403922 0 0
+	 Specular 0.8 0.8 0.8
+	 Roughness 0.25
+	 Metallic 0
+	 Emission 0 0 0
+	 Absorption 0 0 0
+	 Scattering 0 0 0
+	 HG_Phase 0
+
+	 NormalizedIntensity 0.634783
+	 Opacity 0.335294
+	 DensityScale 1
+	 Diffuse 0.337255 0.282353 0.160784
+	 Specular 0.266667 0.266667 0.266667
+	 Roughness 1
+	 Metallic 0
+	 Emission 0 0 0
+	 Absorption 0 0 0
+	 Scattering 0 0 0
+	 HG_Phase 0
+
+	 NormalizedIntensity 1
+	 Opacity 0.323529
+	 DensityScale 1
+	 Diffuse 0.494118 0.439216 0.266667
+	 Specular 0.152941 0.156863 0.14902
+	 Roughness 0.93
+	 Metallic 0
+	 Emission 0 0 0
+	 Absorption 0 0 0
+	 Scattering 0 0 0
+	 HG_Phase 0
+
+SLTF_End
+SLTF_Start
+	 type Mask1
+
+	 NormalizedIntensity 0
+	 Opacity 0
+	 DensityScale 0.5
+	 Diffuse 0.188235 0 0
+	 Specular 0.6 0.0470588 0.0470588
+	 Roughness 0.2
+	 Metallic 0.5
+	 Emission 0.6 0.5 0.6
+	 Absorption 0.6 0.5 0.6
+	 Scattering 0.6 0.5 0.6
+	 HG_Phase 0
+
+	 NormalizedIntensity 1
+	 Opacity 1
+	 DensityScale 0.5
+	 Diffuse 0.513726 0 0
+	 Specular 0.443137 0.321569 0.321569
+	 Roughness 0.5
+	 Metallic 0.5
+	 Emission 0.3 0.4 0.3
+	 Absorption 0.3 0.4 0.3
+	 Scattering 0.3 0.4 0.3
+	 HG_Phase 0
+
+SLTF_End
