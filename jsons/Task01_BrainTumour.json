@@ -1,0 +1,2256 @@
+{
+    "training": [
+        {
+            "image": "TrainingData/BRATS_001.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_002.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_003.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_004.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_005.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_006.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_007.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_008.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_009.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_010.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_011.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_012.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_013.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_014.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_015.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_016.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_017.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_018.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_019.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_020.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_021.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_022.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_023.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_024.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_025.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_026.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_027.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_028.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_029.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_030.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_031.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_032.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_033.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_034.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_035.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_036.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_037.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_038.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_039.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_040.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_041.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_042.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_043.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_044.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_045.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_046.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_047.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_048.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_049.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_050.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_051.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_052.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_053.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_054.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_055.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_056.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_057.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_058.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_059.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_060.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_061.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_062.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_063.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_064.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_065.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_066.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_067.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_068.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_069.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_070.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_071.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_072.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_073.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_074.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_075.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_076.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_077.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_078.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_079.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_080.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_081.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_082.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_083.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_084.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_085.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_086.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_087.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_088.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_089.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_090.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_091.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_092.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_093.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_094.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_095.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_096.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_097.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_098.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_099.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_100.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_101.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_102.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_103.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_104.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_105.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_106.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_107.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_108.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_109.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_110.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_111.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_112.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_113.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_114.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_115.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_116.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_117.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_118.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_119.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_120.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_121.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_122.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_123.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_124.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_125.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_126.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_127.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_128.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_129.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_130.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_131.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_132.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_133.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_134.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_135.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_136.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_137.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_138.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_139.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_140.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_141.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_142.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_143.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_144.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_145.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_146.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_147.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_148.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_149.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_150.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_151.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_152.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_153.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_154.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_155.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_156.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_157.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_158.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_159.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_160.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_161.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_162.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_163.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_164.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_165.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_166.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_167.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_168.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_169.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_170.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_171.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_172.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_173.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_174.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_175.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_176.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_177.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_178.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_179.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_180.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_181.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_182.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_183.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_184.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_185.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_186.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_187.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_188.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_189.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_190.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_191.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_192.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_193.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_194.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_195.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_196.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_197.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_198.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_199.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_200.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_201.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_202.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_203.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_204.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_205.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_206.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_207.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_208.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_209.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_210.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_211.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_212.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_213.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_214.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_215.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_216.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_217.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_218.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_219.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_220.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_221.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_222.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_223.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_224.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_225.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_226.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_227.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_228.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_229.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_230.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_231.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_232.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_233.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_234.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_235.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_236.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_237.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_238.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_239.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_240.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_241.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_242.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_243.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_244.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_245.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_246.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_247.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_248.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_249.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_250.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_251.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_252.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_253.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_254.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_255.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_256.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_257.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_258.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_259.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_260.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_261.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_262.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_263.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_264.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_265.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_266.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_267.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_268.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_269.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_270.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_271.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_272.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_273.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_274.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_275.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_276.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_277.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_278.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_279.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_280.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_281.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_282.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_283.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_284.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_285.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_286.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_287.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_288.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_289.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_290.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_291.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_292.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_293.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_294.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_295.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_296.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_297.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_298.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_299.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_300.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_301.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_302.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_303.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_304.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_305.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_306.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_307.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_308.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_309.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_310.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_311.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_312.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_313.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_314.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_315.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_316.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_317.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_318.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_319.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_320.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_321.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_322.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_323.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_324.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_325.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_326.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_327.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_328.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_329.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_330.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_331.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_332.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_333.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_334.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_335.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_336.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_337.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_338.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_339.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_340.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_341.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_342.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_343.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_344.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_345.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_346.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_347.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_348.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_349.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_350.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_351.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_352.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_353.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_354.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_355.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_356.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_357.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_358.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_359.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_360.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_361.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_362.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_363.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_364.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_365.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_366.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_367.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_368.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_369.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_370.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_371.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_372.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_373.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_374.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_375.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_376.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_377.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_378.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_379.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_380.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_381.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_382.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_383.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_384.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_385.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_386.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_387.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_388.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_389.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_390.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_391.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_392.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_393.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_394.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_395.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_396.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_397.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_398.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_399.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_400.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_401.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_402.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_403.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_404.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_405.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_406.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_407.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_408.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_409.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_410.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_411.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_412.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_413.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_414.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_415.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_416.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_417.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_418.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_419.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_420.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_421.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_422.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_423.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_424.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_425.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_426.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_427.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_428.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_429.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_430.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_431.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_432.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_433.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_434.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_435.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_436.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_437.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_438.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_439.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_440.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_441.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_442.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_443.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_444.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_445.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_446.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_447.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_448.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_449.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_450.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_451.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_452.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_453.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_454.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_455.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_456.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_457.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_458.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_459.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_460.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_461.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_462.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_463.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_464.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_465.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_466.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_467.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_468.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_469.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_470.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_471.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_472.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_473.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_474.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_475.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_476.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_477.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_478.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_479.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_480.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_481.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_482.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_483.nii.gz"
+        },
+        {
+            "image": "TrainingData/BRATS_484.nii.gz"
+        }
+    ],
+    "validation": [
+        {
+            "image": "ValidationData/BRATS_485.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_486.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_487.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_488.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_489.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_490.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_491.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_492.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_493.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_494.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_495.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_496.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_497.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_498.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_499.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_500.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_501.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_502.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_503.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_504.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_505.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_506.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_507.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_508.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_509.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_510.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_511.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_512.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_513.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_514.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_515.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_516.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_517.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_518.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_519.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_520.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_521.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_522.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_523.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_524.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_525.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_526.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_527.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_528.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_529.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_530.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_531.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_532.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_533.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_534.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_535.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_536.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_537.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_538.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_539.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_540.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_541.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_542.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_543.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_544.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_545.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_546.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_547.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_548.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_549.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_550.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_551.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_552.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_553.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_554.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_555.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_556.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_557.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_558.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_559.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_560.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_561.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_562.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_563.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_564.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_565.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_566.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_567.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_568.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_569.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_570.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_571.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_572.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_573.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_574.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_575.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_576.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_577.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_578.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_579.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_580.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_581.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_582.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_583.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_584.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_585.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_586.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_587.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_588.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_589.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_590.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_591.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_592.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_593.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_594.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_595.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_596.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_597.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_598.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_599.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_600.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_601.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_602.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_603.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_604.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_605.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_606.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_607.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_608.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_609.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_610.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_611.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_612.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_613.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_614.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_615.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_616.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_617.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_618.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_619.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_620.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_621.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_622.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_623.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_624.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_625.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_626.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_627.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_628.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_629.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_630.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_631.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_632.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_633.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_634.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_635.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_636.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_637.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_638.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_639.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_640.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_641.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_642.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_643.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_644.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_645.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_646.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_647.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_648.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_649.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_650.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_651.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_652.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_653.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_654.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_655.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_656.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_657.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_658.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_659.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_660.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_661.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_662.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_663.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_664.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_665.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_666.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_667.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_668.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_669.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_670.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_671.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_672.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_673.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_674.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_675.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_676.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_677.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_678.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_679.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_680.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_681.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_682.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_683.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_684.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_685.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_686.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_687.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_688.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_689.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_690.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_691.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_692.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_693.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_694.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_695.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_696.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_697.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_698.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_699.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_700.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_701.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_702.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_703.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_704.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_705.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_706.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_707.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_708.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_709.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_710.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_711.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_712.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_713.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_714.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_715.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_716.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_717.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_718.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_719.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_720.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_721.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_722.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_723.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_724.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_725.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_726.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_727.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_728.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_729.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_730.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_731.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_732.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_733.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_734.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_735.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_736.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_737.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_738.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_739.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_740.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_741.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_742.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_743.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_744.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_745.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_746.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_747.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_748.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_749.nii.gz"
+        },
+        {
+            "image": "ValidationData/BRATS_750.nii.gz"
+        }
+    ]
+}

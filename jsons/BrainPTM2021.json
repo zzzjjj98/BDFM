@@ -1,0 +1,231 @@
+{
+    "training": [
+        {
+            "image": "TrainingData/case_1/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_10/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_11/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_12/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_13/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_14/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_15/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_16/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_17/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_18/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_19/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_2/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_20/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_21/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_22/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_23/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_24/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_25/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_26/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_27/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_28/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_29/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_3/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_30/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_31/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_32/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_33/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_34/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_35/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_36/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_37/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_38/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_39/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_4/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_40/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_41/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_42/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_43/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_44/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_45/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_46/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_47/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_48/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_49/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_5/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_50/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_51/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_52/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_53/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_54/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_55/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_56/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_57/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_58/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_59/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_6/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_60/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_7/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_8/T1.nii.gz"
+        },
+        {
+            "image": "TrainingData/case_9/T1.nii.gz"
+        }
+    ],
+    "validation": [
+        {
+            "image": "ValidationData/case_61/T1.nii.gz"
+        },
+        {
+            "image": "ValidationData/case_62/T1.nii.gz"
+        },
+        {
+            "image": "ValidationData/case_63/T1.nii.gz"
+        },
+        {
+            "image": "ValidationData/case_64/T1.nii.gz"
+        },
+        {
+            "image": "ValidationData/case_65/T1.nii.gz"
+        },
+        {
+            "image": "ValidationData/case_66/T1.nii.gz"
+        },
+        {
+            "image": "ValidationData/case_67/T1.nii.gz"
+        },
+        {
+            "image": "ValidationData/case_68/T1.nii.gz"
+        },
+        {
+            "image": "ValidationData/case_69/T1.nii.gz"
+        },
+        {
+            "image": "ValidationData/case_70/T1.nii.gz"
+        },
+        {
+            "image": "ValidationData/case_71/T1.nii.gz"
+        },
+        {
+            "image": "ValidationData/case_72/T1.nii.gz"
+        },
+        {
+            "image": "ValidationData/case_73/T1.nii.gz"
+        },
+        {
+            "image": "ValidationData/case_74/T1.nii.gz"
+        },
+        {
+            "image": "ValidationData/case_75/T1.nii.gz"
+        }
+    ]
+}
