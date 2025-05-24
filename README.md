@@ -13,5 +13,46 @@ The details of the pre-training and fine-tuning datasets are shown in the follow
 
 [![Dataset Overview](Datasets.png)](Datasets.png)
 
+```bash
+datasets/
+├── BraTS23_GLI
+│   ├── TrainingData
+│   └── ValidationData
+├── BraTS23_MEN
+│   ├── TrainingData
+│   └── ValidationData
+├── BraTS23_MET
+│   ├── TrainingData
+│   └── ValidationData
+├── BraTS23_PED
+│   ├── TrainingData
+│   └── ValidationData
+├── BraTS23_SSA
+│   ├── TrainingData
+│   └── ValidationData
+├── AtlasR2
+│   ├── TrainingData
+│   └── ValidationData
+├── BrainPTM2021
+│   ├── TrainingData
+│   └── ValidationData
+├── ISLES2022
+│   ├── TrainingData
+│   └── ValidationData
+├── OASIS
+│   ├── TrainingData
+│   └── ValidationData
+├── MRBrains13
+│   ├── TrainingData
+│   └── ValidationData
+└── UPENN-GBM
+    ├── TrainingData
+    └── ValidationData
+```
+
+After downloading the data, generate JSON files:
+```bash
+get_json.py
+```
 ## Pretrain
 
