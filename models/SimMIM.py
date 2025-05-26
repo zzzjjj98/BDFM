@@ -2,10 +2,10 @@
 # Licensed under the CC BY-NC 4.0 License (https://creativecommons.org/licenses/by-nc/4.0/)
 # Modified by Jiatian Zhang, 2025.
 # --------------------------------------------------------
-Reference:
-https://github.com/microsoft/SimMIM/blob/main/models/simmim.py
-https://github.com/facebookresearch/mae/blob/main/models_mae.py
-https://github.com/Project-MONAI/MONAI/blob/b61db797e2f3bceca5abbaed7b39bb505989104d/monai/networks/nets/vit.py
+# Reference:
+# https://github.com/microsoft/SimMIM/blob/main/models/simmim.py
+# https://github.com/facebookresearch/mae/blob/main/models_mae.py
+# https://github.com/Project-MONAI/MONAI/blob/b61db797e2f3bceca5abbaed7b39bb505989104d/monai/networks/nets/vit.py
 # --------------------------------------------------------
 
 import logging
