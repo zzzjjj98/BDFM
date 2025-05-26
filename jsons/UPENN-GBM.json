@@ -2,7 +2,7 @@
     "training": [
         {
             "image": "TrainingData/BRATS_001.nii.gz"
-        },
+        }, 
         {
             "image": "TrainingData/BRATS_002.nii.gz"
         },
