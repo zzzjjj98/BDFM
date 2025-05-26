@@ -9,7 +9,7 @@ pip install -r requirements.txt
 ```
 
 ## Datasets (BD-15k database)
-The details of the pre-training and fine-tuning datasets are shown in the following figure. These datasets are publicly accessible through their respective official websites.
+The details of the pre-training and fine-tuning datasets are shown in the following figure. These datasets are publicly accessible through their respective official websites. Alternatively, we will upload the datasets shortly. You can also download them directly from our repo.
 
 [![Dataset Overview](Datasets.png)](Datasets.png)
 
@@ -54,5 +54,7 @@ After downloading the data, generate JSON files:
 ```bash
 get_json.py
 ```
+
 ## Pretrain
+(1) To speed up training, you can pre-cache the dataset using “CacheDataset” or “SmartCacheDataset”, which can be modifiedy in `data_utils.py`.
 
