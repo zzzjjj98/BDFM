@@ -1,9 +1,11 @@
-"""Jiatian Zhang
-zjt20174025@mail.ustc.edu.cn
-Reference:
-https://github.com/microsoft/SimMIM/blob/main/models/simmim.py
-https://github.com/facebookresearch/mae/blob/main/models_mae.py
-"""
+# Copyright (c) Meta Platforms, Inc. and affiliates.
+# Licensed under the CC BY-NC 4.0 License (https://creativecommons.org/licenses/by-nc/4.0/)
+# Modified by Jiatian Zhang, 2025.
+# --------------------------------------------------------
+# Reference:
+# https://github.com/microsoft/SimMIM/blob/main/models/simmim.py
+# https://github.com/facebookresearch/mae/blob/main/models_mae.py
+# --------------------------------------------------------
 
 import logging
 from typing import Sequence, Union
