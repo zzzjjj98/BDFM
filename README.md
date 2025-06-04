@@ -57,6 +57,7 @@ get_json.py
 
 ## Pretrain
 (1) To speed up training, you can pre-cache the dataset using “CacheDataset” or “SmartCacheDataset”, which can be modifiedy in `data_utils.py`.
+
 (2) To pre-train (SimMIM and BDFM based on Vision Transformer/Swin Transformer):
 ```bash
 train.py
